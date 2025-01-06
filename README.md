@@ -1,4 +1,4 @@
-# GTA-Session-Bot
+# GTA-Session-Botj
 
 ## Overview
 This bot is designed to help manage a machine that is used to host a Grand Theft Auto V Online Session.
